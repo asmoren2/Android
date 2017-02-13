@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/AdolfoMoreno/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.1/support-annotations-23.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="/Users/AdolfoMoreno/AndroidStudioProjects/ApplicationTwoHW3/app/build/intermediates/pre-dexed/debug/support-annotations-23.1.1_3715808932385305424e3ec4bcc771b0dd01ca80.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/AdolfoMoreno/AndroidStudioProjects/ApplicationTwoHW3/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="/Users/AdolfoMoreno/AndroidStudioProjects/ApplicationTwoHW3/app/build/intermediates/pre-dexed/debug/com.android.support-design-23.1.1_103d04f58d5505c5393456e492691f4d94cce53e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/AdolfoMoreno/AndroidStudioProjects/ApplicationTwoHW3/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="/Users/AdolfoMoreno/AndroidStudioProjects/ApplicationTwoHW3/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-23.1.1_4609e5725e1aea215e7ae37a1b1d80422dfeafd4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/AdolfoMoreno/AndroidStudioProjects/ApplicationTwoHW3/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="ca69dcb374164edd1ab9654a8f0476c8245e6ceb">
+        <dex dex="/Users/AdolfoMoreno/AndroidStudioProjects/ApplicationTwoHW3/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_e801e23f2df1f1ca99be4f6e6b224d7685990baf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/AdolfoMoreno/AndroidStudioProjects/ApplicationTwoHW3/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="/Users/AdolfoMoreno/AndroidStudioProjects/ApplicationTwoHW3/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.1.1_4b30c701d3e1773eb596eaae6aef49c8a3484b32.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/AdolfoMoreno/AndroidStudioProjects/ApplicationTwoHW3/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="afac99ffa9eb14c4f4a36ef1136eb9741dfcb959">
+        <dex dex="/Users/AdolfoMoreno/AndroidStudioProjects/ApplicationTwoHW3/app/build/intermediates/pre-dexed/debug/instant-run_1ca8ad80dcd09e7aadc35756287f6dd08a66ce79.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/AdolfoMoreno/AndroidStudioProjects/ApplicationTwoHW3/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="/Users/AdolfoMoreno/AndroidStudioProjects/ApplicationTwoHW3/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.1.1_4d1c82c104f1865a007797beb4c637e5e990a02b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/AdolfoMoreno/AndroidStudioProjects/ApplicationTwoHW3/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/libs/internal_impl-23.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="/Users/AdolfoMoreno/AndroidStudioProjects/ApplicationTwoHW3/app/build/intermediates/pre-dexed/debug/internal_impl-23.1.1_1a60922e581e0aef0e7da386f3647fbad9cd9d34.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">Chicago vs. Indianapolis POI</string>
+    <string name="title_activity_chi">ChiActivity</string>
+
+    <string-array name="ChicagoPOI">
+        <item>"United Center"</item>
+        <item>"Wrigley Field"</item>
+        <item>"Soldier Field"</item>
+        <item>"U.S. Cellular Field"</item>
+        <item>"Lincoln Park Zoo"</item>
+        <item>"Field Museum"</item>
+        <item>"Museum of Science and Industries"</item>
+        <item>"Willis Tower"</item>
+        <item>"Merchendise Mart"</item>
+        <item>"Navy Pier"</item>
+        <item>"Millenium Park"</item>
+        <item>"Grant Park"</item>
+    </string-array>
+
+    <string-array name="IndianapolisPOI">
+        <item>"Children's Museum of Indianapolis"</item>
+        <item>"Indianapolis Motor Speedway"</item>
+        <item>"Indianapolis Zoo"</item>
+        <item>"Lucas Oil Stadium"</item>
+
+    </string-array>
+
+    <string-array name="ChicagoUrls">
+        <item>"http://www.unitedcenter.com/"</item>
+        <item>"http://chicago.cubs.mlb.com/chc/ballpark/"</item>
+        <item>"http://www.soldierfield.net/"</item>
+        <item>"http://chicago.whitesox.mlb.com/cws/ballpark/"</item>
+        <item>"http://www.lpzoo.org/"</item>
+        <item>"https://www.fieldmuseum.org/"</item>
+        <item>"http://www.msichicago.org/"</item>
+        <item>"http://www.willistower.com/"</item>
+        <item>"http://www.mmart.com/"</item>
+        <item>"https://navypier.com/"</item>
+        <item>"http://www.cityofchicago.org/city/en/depts/dca/supp_info/millennium_park.html"</item>
+        <item>"http://www.chicagoparkdistrict.com/parks/grant-park/"</item>
+    </string-array>
+
+    <string-array name="IndianaPolisUrls">
+        <item>"https://www.childrensmuseum.org/"</item>
+        <item>"http://www.indianapolismotorspeedway.com/"</item>
+        <item>"http://www.indianapoliszoo.com/SitePages/Home.aspx"</item>
+        <item>"http://www.lucasoilstadium.com/"</item>
+
+
+
+    </string-array>
+
+    <string name="background_title">Chicago</string>
+    <string name="toast_title">Indianapolis</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
